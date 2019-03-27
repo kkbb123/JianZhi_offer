@@ -1,6 +1,6 @@
 package keyouxing.dynamic;
 
-public class JumpFloor {
+public class JumpFloor{
 	
 	public int jumpFloor(int target) {
 		if(target == 1 || target == 2) {
