@@ -15,6 +15,9 @@ public class Power {
             return 1/power(base,-1*exponent);
         }
     }
+//     public double power(double base,int exponent){
+//         return Math.pow(base,exponent);
+//     }
         public static void main(String[]args){
             Power p=new Power();
             double a=2;int b=-3;
